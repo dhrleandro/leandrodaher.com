@@ -8,8 +8,6 @@ tags:
   - blog
 ---
 
-# Título
-
 Hello! Thanks for getting this far. This is the beginning of a new journey and I hope you enjoy the content I will share here.
 
 Stay tuned!
